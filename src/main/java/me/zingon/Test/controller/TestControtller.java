@@ -25,7 +25,7 @@ public class TestControtller {
 			if (token != null) {
 				return testService.listAll();
 			}
-			return "谢谢1234";
+			return "谢谢12345";
 		} catch (Exception e) {
 			e.printStackTrace();
 			return "对不起";
