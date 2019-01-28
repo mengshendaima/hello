@@ -28,5 +28,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/limeng/programSoftware/Apache/maven-repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
